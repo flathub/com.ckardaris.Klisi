@@ -1,4 +1,4 @@
-# com.ckardaris.Klisi (0.6.4)
+# com.ckardaris.Klisi (0.6.5)
 id: com.ckardaris.Klisi
 runtime: org.gnome.Platform
 runtime-version: "51"
@@ -19,7 +19,7 @@ modules:
       - ./flatpak/install.sh com.ckardaris.Klisi
     sources:
       - type: archive
-        url: https://gitlab.com/ckardaris/klisi/-/archive/0.6.4/klisi-0.6.4.tar.gz
-        sha256: d9d0cb3d3af5df47e7fe35a5fcf12aca96c08f276bc22a7645fad7f128849f5a
+        url: https://gitlab.com/ckardaris/klisi/-/archive/0.6.5/klisi-0.6.5.tar.gz
+        sha256: 94149ce7aa8697c9680e9be36635634f5e82f52fcc7bedf8cc516f69b0134dab
       - mvn_dependencies_tools.yml
       - mvn_dependencies_project.yml

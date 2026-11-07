@@ -1,4 +1,4 @@
-# com.ckardaris.Klisi (0.6.4)
+# com.ckardaris.Klisi (0.6.5)
 - dest: m2-project/io/github/jwharm/cairobindings/cairo/1.18.4.3
   sha256: 20860d4459de3ecc1992e2feebab180cc01e73f1ab69b37b0ef1e6bc4c4aa42d
   type: file
